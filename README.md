@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante as aulas de boas práticas de desenvolvimento da Gama Academy no curso de Desenvolvedor Full Stack.
 
+Para acessar [clique aqui](https://star-wars-boas-praticas.vercel.app/)
+
 ## Template Node FullJS
 
 Para iniciar o projeto:
